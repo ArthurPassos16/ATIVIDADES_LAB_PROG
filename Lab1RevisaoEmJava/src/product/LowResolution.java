@@ -1,4 +1,4 @@
-package abstractfactory;
+package product;
 
 public interface LowResolution{
 	void print();

@@ -1,4 +1,4 @@
-package abstractfactory;
+package product;
 
 public class DTMonitorHighResolution implements HighResolution {
 
